@@ -65,8 +65,10 @@
 
 .feature {
     display: block;
-    margin-left: 150px;
-    margin-right: 150px;
+    height: 70vh;
+    width: 1920px;
+    /* margin-left: 150px;
+    margin-right: 150px; */
 }
 
 .flower-2 {
