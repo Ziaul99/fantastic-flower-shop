@@ -59,21 +59,50 @@
 
 /* Feature */
 
-.feature{
+.link {
+    font-size: 30px;
+}
+
+.feature {
     display: block;
     margin-left: 150px;
     margin-right: 150px;
 }
 
-.flower-2{
+.flower-2 {
+    height: 500px;
     display: flex;
-    justify-content: space-around;
+    gap: 5px;
+    justify-content: center;
+    width: 1620px;
+   
 }
 
-.main-imaige{
+.main-imaige-1 {
 
     width: 310px;
     height: 430px;
+    background-color: #A72162;
+    border-radius: 75px;
+    border: 20px;
+}
+
+.main-imaige-2 {
+
+    width: 310px;
+    height: 430px;
+    background-color: #E3EBDB;
+    border-radius: 75px;
+    border: 20px;
+}
+
+.main-imaige-3 {
+
+    width: 310px;
+    height: 430px;
+    background-color: #477D11;
+    border-radius: 75px;
+    border: 20px;
 }
 
 /* Hot Deal Starts Here */
@@ -205,7 +234,7 @@ span {
 
 /* <!-- latest section starts here --> */
 
-.latest{
+.latest {
     background-image: url(assets/Rectangle\ 9.png);
     width: 1440px;
     height: 450px;
