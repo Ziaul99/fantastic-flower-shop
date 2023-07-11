@@ -57,6 +57,25 @@
 }
 
 
+/* Feature */
+
+.feature{
+    display: block;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.flower-2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.main-imaige{
+
+    width: 310px;
+    height: 430px;
+}
+
 /* Hot Deal Starts Here */
 
 
@@ -67,7 +86,6 @@
     background-color: #FCEEF1;
     width: 1920px;
     height: 620px;
-    margin-top: 100px;
     margin-bottom: 100px;
 }
 
