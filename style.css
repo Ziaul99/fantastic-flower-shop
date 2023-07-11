@@ -13,6 +13,8 @@
     background-color: #FCEEF1;
     width: 1920px;
     height: 850px;
+    margin-top: 100px;
+    margin-bottom: 100px;
 
 }
 
@@ -66,6 +68,8 @@
     background-color: #FCEEF1;
     width: 1920px;
     height: 620px;
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
 
 .hot-right {
@@ -89,13 +93,14 @@
 .hot-title {
     font-size: 60px;
     text-align: center;
-
+    color: rgb(10, 10, 10);
 }
 
 .hot-para {
     font-size: 30px;
     padding-top: 20px;
     text-align: center;
+    color: #060606;
 }
 
 .hot-btn {
@@ -108,5 +113,125 @@
     border: none;
     color: white;
     padding: 20px;
-    margin-left:195px;
+    margin-left: 195px;
+}
+
+
+
+/* Instagram Section Starts Here */
+
+
+}
+
+.instagram {
+    display: block;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.instagram-up {
+    width: 35%;
+    height: 300px;
+    color: black;
+    text-align: center;
+}
+
+.instagram-down {
+    width: 1620px;
+    margin-left: 220px;
+
+}
+
+.flower {
+    width: 332px;
+    height: 396px;
+    margin: 10px;
+}
+
+
+
+/* footer section */
+
+
+.footer {
+    height: 450px;
+    width: 1920px;
+    background-color: black;
+}
+
+span {
+    color: red;
+}
+
+.footer-title {
+    font-size: 60px;
+    text-align: center;
+    color: aliceblue;
+    padding-top: 100px;
+}
+
+.footer-para {
+    font-size: 30px;
+    padding-top: 20px;
+    text-align: center;
+    color: #FCEEF1;
+}
+
+.copy-para {
+    font-size: 30px;
+    padding-top: 20px;
+    text-align: center;
+    color: #b2717f;
+}
+
+
+/* <!-- latest section starts here --> */
+
+.latest{
+    background-image: url(assets/Rectangle\ 9.png);
+    width: 1440px;
+    height: 450px;
+    margin-left: 200px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+
+
+.latest-title {
+    font-size: 60px;
+    text-align: center;
+    color: rgb(10, 10, 10);
+    padding-top: 90px;
+}
+
+.latest-para {
+    font-size: 30px;
+    padding-top: 20px;
+    text-align: center;
+    color: #060606;
+}
+
+.subscribe-btn {
+    background-color: #E55473;
+    font-size: 20px;
+    margin-top: 20px;
+    width: 180px;
+    height: 70px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    padding: 20px;
+    margin-left: 10px;
+}
+
+.email {
+    height: 50px;
+    width: 600px;
+    border-radius: 10px;
+    background-color: #FCEEF1;
+    padding: 8px;
+    border: none;
+    margin-left: 320px;
+    margin-top: 25px;
 }
